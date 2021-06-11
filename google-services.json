@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294842752283",
+    "project_id": "firestoe-56605",
+    "storage_bucket": "firestoe-56605.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294842752283:android:dd701d3217acd28782c7be",
+        "android_client_info": {
+          "package_name": "tw.edu.pu.s1082826.firestore20210611"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294842752283-44nnulhf511jkpr0daue3dn6lpr58lha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl97l53H9uEp6Hhm-173MHEIAGYw9Oii4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294842752283-44nnulhf511jkpr0daue3dn6lpr58lha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

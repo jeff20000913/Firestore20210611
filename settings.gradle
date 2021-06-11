@@ -1,0 +1,2 @@
+rootProject.name = "Firestore20210611"
+include ':app'
